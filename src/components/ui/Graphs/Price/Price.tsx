@@ -15,6 +15,7 @@ import { ThreeDots as Skeleton } from "@/components/ui/Skeleton";
 
 import { serializePrice } from "@/utils/index";
 import { optionsProducts } from "@/constant/common";
+
 import style from "./Price.module.css";
 
 ChartJS.register(
