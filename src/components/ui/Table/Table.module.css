@@ -1,0 +1,64 @@
+.WrapperSorting {
+  display: flex;
+  align-items: center;
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.ChevronUpIcon {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.SwitchVerticalIcon {
+  width: 1rem;
+  height: 1rem;
+}
+
+.Container {
+  display: flex;
+  flex-direction: column;
+}
+
+.SubContainer {
+  flex-grow: 1;
+}
+
+.Max_height {
+  max-height: 100vh;
+}
+
+.table-scroll-y {
+  overflow: auto;
+}
+
+.top_0 {
+  top: 0;
+}
+
+.bg_gray-200 {
+  background-color: #f0f6ff;
+}
+
+.left_checkbox {
+  left: 33px;
+}
+
+.text_blue {
+  color: #63b3ed;
+}
+
+.py_1 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.px_1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.span_th {
+  font-size: 0.875rem;
+  white-space: nowrap;
+}

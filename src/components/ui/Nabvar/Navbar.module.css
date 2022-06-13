@@ -1,0 +1,13 @@
+.nav {
+  backdrop-filter: blur(10px);
+  background-color: var(--blue);
+  color: #000;
+  position: sticky;
+  z-index: 100;
+  top: 0;
+}
+
+.img {
+  margin: 0 0 0 1rem;
+  padding: 0.4rem 0;
+}

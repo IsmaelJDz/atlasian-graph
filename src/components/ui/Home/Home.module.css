@@ -1,0 +1,47 @@
+.Home {
+  margin: 0 1.5rem;
+}
+
+.Home h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--blue-dark);
+}
+
+.HomeSections {
+  display: flex;
+  gap: 1rem;
+  width: 100%;
+  justify-content: center;
+}
+
+.HomeTitles {
+  display: flex;
+  color: var(--blue-dark);
+  justify-content: space-between;
+}
+
+.PriceContainer {
+  width: 70%;
+  height: auto;
+}
+
+.ProductsContainer {
+  width: 30%;
+  height: auto;
+}
+
+@media screen and (max-width: 1080px) {
+  .HomeSections {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .PriceContainer {
+    width: 100%;
+  }
+
+  .ProductsContainer {
+    width: 100%;
+  }
+}
