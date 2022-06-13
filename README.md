@@ -2,7 +2,7 @@
 
 ![Captura de la app](public/images/graphs.png)
 
-[See the aplication](https://atlasian-graph-j9au1vhbx-ismaelbr7.vercel.app/) 👀
+[See the aplication](https://atlasian-graph-e3zri72x7-ismaelbr7.vercel.app/) 👀
 
 ## Welcome! 👋
 
